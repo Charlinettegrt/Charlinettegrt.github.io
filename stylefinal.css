@@ -134,9 +134,14 @@ body	{background-color: rgb(250,230,247)
 	font-size: 15px;
 }
 
+
 #footer{
 	text-align: center;
 }
+
+#footer a{ 
+text-decoration: none; 
+color: white;}
 
 .articles-container{
 	background: white;
